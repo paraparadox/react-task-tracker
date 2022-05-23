@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Weekly meeting",
-      "day": "May 21st at 6:30pm",
-      "reminder": true
-    },
-    {
       "id": 2,
       "text": "Talk to akai Alisher",
       "day": "May 21st at 5:00pm",
