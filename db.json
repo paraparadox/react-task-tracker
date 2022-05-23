@@ -11,6 +11,18 @@
       "text": "Sunday cycling",
       "day": "May 22nd at 6:00am",
       "reminder": false
+    },
+    {
+      "text": "123",
+      "day": "123",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Shopping",
+      "day": "tuesday, 10 am",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
