@@ -10,13 +10,25 @@
       "id": 3,
       "text": "Sunday cycling",
       "day": "May 22nd at 6:00am",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Shopping",
       "day": "tuesday, 10 am",
-      "reminder": true,
+      "reminder": false,
       "id": 5
+    },
+    {
+      "text": "It works man",
+      "day": "",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Yeah man!",
+      "day": "it is done!",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
