@@ -1,34 +1,10 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Talk to akai Alisher",
-      "day": "May 21st at 5:00pm",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Sunday cycling",
-      "day": "May 22nd at 6:00am",
-      "reminder": true
-    },
-    {
-      "text": "Shopping",
-      "day": "tuesday, 10 am",
+      "text": "Testing",
+      "date": "monday",
       "reminder": false,
-      "id": 5
-    },
-    {
-      "text": "It works man",
-      "day": "",
-      "reminder": false,
-      "id": 6
-    },
-    {
-      "text": "Yeah man!",
-      "day": "it is done!",
-      "reminder": false,
-      "id": 7
+      "id": 8
     }
   ]
 }

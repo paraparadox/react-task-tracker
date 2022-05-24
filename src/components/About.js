@@ -2,10 +2,10 @@ import { Link } from "react-router-dom"
 
 const About = () => {
   return (
-    <div>
+    <footer>
       <h3>Version 1.0.0</h3>
-      <Link to="/">Go Back</Link>
-    </div>
+      <Link to='/'>Go Back</Link>
+    </footer>
   )
 }
 
